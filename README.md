@@ -1,6 +1,6 @@
-- I’m a machine learning scientist/engineer with extensive experience in applications of deep learning. 
+- Hello, It's Maral. I’m a machine learning scientist/engineer with extensive experience in applications of deep learning. 
 
-Interests : supervised and unsupervised learning, image segmentation, NLP, MLOps
+Interests : Supervised and Unsupervised Learning, Image Segmentation, NLP, MLOps
 
 [Email](mailto:m.rasooli.j@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/maralrasooli/) / [Google Scholar](https://scholar.google.ca/citations?hl=en&user=Gk_UxIMAAAAJ)
 

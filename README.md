@@ -20,6 +20,11 @@ Interests : Supervised and Unsupervised Learning, Image Segmentation, NLP, MLOps
 <img width="440" alt="pnemothorax" src="https://user-images.githubusercontent.com/73490961/170360915-fe98c0e1-f15f-4119-89f1-e493207df825.png">
  <p>
 <br><br>
+  
+<p align="center">
+<img width="500" alt="UNET_ARCH" src="https://user-images.githubusercontent.com/73490961/186615679-4480d463-c1e0-42dd-a364-150ba5aa0cbc.png">
+ <p>
+<br><br>
 
 
 </b> Graduate Student Research Assistant @ Kimia Lab </b> _(Sep 2019 - Sep 2021)_ <br><br>
@@ -47,6 +52,7 @@ Interests : Supervised and Unsupervised Learning, Image Segmentation, NLP, MLOps
   
 - Developed deep feature extractor for medical image representation using transfer learning. Improved image search accuracy by 30% compared to pre-trained DenseNet
   
-<!--
+<!--![UNET_ARCH](https://user-images.githubusercontent.com/73490961/186615679-4480d463-c1e0-42dd-a364-150ba5aa0cbc.png)
+
 **maral96/maral96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -27,7 +27,7 @@ Interests : Supervised and Unsupervised Learning, Image Segmentation, NLP, MLOps
 <br><br>
 
 
-</b> Graduate Student Research Assistant @ Kimia Lab </b> _(Sep 2019 - Sep 2021)_ <br><br>
+**Graduate Student Research Assistant** @ Kimia Lab _(Sep 2019 - Sep 2021)_ <br><br>
  <b>Deep learning application in medical image analysis</b>
 - Proposed multi-magnification **CBIR** using features derived by **deep learning**
 - Implemented **unsupervised hashing algorithms** to increase information retrieval efficiency and statistical methods for deep feature aggregation

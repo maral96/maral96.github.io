@@ -51,16 +51,21 @@ Interests : Supervised and Unsupervised Learning, Image Segmentation, NLP, MLOps
 
   
 - Developed deep feature extractor for medical image representation using transfer learning. Improved image search accuracy by 30% compared to pre-trained DenseNet
+<br><br>
 
 
 ## 🎓 Education
 
 **Master of Applied Science** in Artificial and Intelligences<br>
 [University of Waterloo]- Waterloo, Ontario, Canada _(2019 - 2021)_
+<br><br>
+
 
 **Bachelor of Engineering** in electrical engineeting, minor in software engineering<br>
 [Amirkabir University of Technology](https://aut.ac.ir/en) - Tehran, Iran _(2014 - 2019)_
-  
+</p>
+
+
 <!--![UNET_ARCH](https://user-images.githubusercontent.com/73490961/186615679-4480d463-c1e0-42dd-a364-150ba5aa0cbc.png)
 
 **maral96/maral96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

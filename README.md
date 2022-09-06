@@ -6,7 +6,7 @@ Interests : CNNs, Supervised and Unsupervised Learning, Image Segmentation, NLP,
 
 
 ## 💻  Experience
-##### Machine Learning Researcher @ Vector Institute _(Sep 2021 - Jan 2022)_ <br><br>
+##### Machine Learning Researcher @ Vector Institute _(Sep 2021 - Feb. 2022)_ <br><br>
  <b>Semnatic Segmentation and object detection in medical images</b>
 - Built an end-to-end AI recommendation system for x-ray image segmentation to enhance radiology diagnoses with machine learning
 -  Achieved 0.74 accuracy

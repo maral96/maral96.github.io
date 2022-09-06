@@ -6,7 +6,7 @@ Interests : CNNs, Supervised and Unsupervised Learning, Image Segmentation, NLP,
 
 
 ## 💻  Experience
-**Machine Learning Researcher** @ Vector Institute _(Sep 2021 - Jan 2022)_ <br><br>
+##### Machine Learning Researcher @ Vector Institute _(Sep 2021 - Jan 2022)_ <br><br>
  <b>Semnatic Segmentation and object detection in medical images</b>
 - Built an end-to-end AI recommendation system for x-ray image segmentation to enhance radiology diagnoses with machine learning
 -  Achieved 0.74 accuracy
@@ -27,7 +27,7 @@ Interests : CNNs, Supervised and Unsupervised Learning, Image Segmentation, NLP,
 <br><br>
 
 
-### Graduate Student Research Assistant @ Kimia Lab _(Sep 2019 - Sep 2021)_ <br><br>
+##### Graduate Student Research Assistant @ Kimia Lab _(Sep 2019 - Sep 2021)_ <br><br>
  <b>Deep learning application in medical image analysis</b>
 - Proposed multi-magnification **CBIR** using features derived by **deep learning**
 - Implemented **unsupervised hashing algorithms** to increase information retrieval efficiency and statistical methods for deep feature aggregation
@@ -66,7 +66,4 @@ Interests : CNNs, Supervised and Unsupervised Learning, Image Segmentation, NLP,
 </p>
 
 
-<!--![UNET_ARCH](https://user-images.githubusercontent.com/73490961/186615679-4480d463-c1e0-42dd-a364-150ba5aa0cbc.png)
-
-**maral96/maral96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
